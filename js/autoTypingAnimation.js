@@ -1,7 +1,7 @@
 setTimeout(function() {
     $('.about-info-inner').typed({
       strings: [
-        "<span>Hi, I am Golam Morsed</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eius officia ea ut vonsectetur adipisicing elit. Illo voluptatum iste, tempora rem obcaecati omnis delectus sunt, consequuntur, et ut quasi aperiam assumenda! <br><br> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex beatae reprehenderit vero maiores dignissimos error vitae, optio inventore explicabo quia officiis magni delectus? Lorem ipsum dolor, sit amet consectetur"
+        "<h1>Hey there!! I am Sneha Nadig B. I am currently pursuing my undergraduate degree, 7th semester in Computer Science and Engineering at Bangalore Institute of Technology [2020-2024 batch].I describe myself as an adventurous person and would love to explore every part of my life. I enjoy painting and listening to music during my leisure time. "
       ],
       typeSpeed: 7,
       contentType: 'html'
